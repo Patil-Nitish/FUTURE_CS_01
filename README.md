@@ -30,7 +30,7 @@ The project simulates a **real-world web application penetration test** followin
 
 ## 📂 Repository Structure
 .
-├── evidence
+├── evidence/
 │   ├── headers.txt
 │   ├── manual_sqli_and_false.html
 │   ├── manual_sqli_or_true.html
