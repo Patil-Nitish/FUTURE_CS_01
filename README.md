@@ -29,6 +29,7 @@ The project simulates a **real-world web application penetration test** followin
 ---
 
 ## 📂 Repository Structure
+```text
 .
 ├── evidence/
 │   ├── headers.txt
@@ -50,6 +51,7 @@ The project simulates a **real-world web application penetration test** followin
 │   └── sqlmap_tables.txt
 ├── Report_Task_1.md
 └── Report_Task_1.pdf
+```
 
 
 ---
