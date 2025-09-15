@@ -29,27 +29,28 @@ The project simulates a **real-world web application penetration test** followin
 ---
 
 ## 📂 Repository Structure
+.
 ├── evidence
-│   ├── headers.txt
-│   ├── manual_sqli_and_false.html
-│   ├── manual_sqli_or_true.html
-│   ├── nikto.txt
-│   ├── README.md
-│   ├── Report_Task_1.md
-│   ├── screenshot_headers.png
-│   ├── screenshot_nikto.png
-│   ├── screenshot_sqlmap_dbs.png
-│   ├── screenshot_sqlmap.png
-│   ├── screenshot_xss_page.png
-│   ├── sqlmap_dbs.txt
-│   ├── sqlmap_dump_TABLE_NAME_masked.txt
-│   ├── sqlmap_dump_TABLE_NAME_raw.txt
-│   ├── sqlmap_dump_TABLE_NAME.txt
-│   ├── sqlmap_run_level3.txt
-│   ├── sqlmap_run.txt
-│   └── sqlmap_tables.txt
+│   ├── headers.txt
+│   ├── manual_sqli_and_false.html
+│   ├── manual_sqli_or_true.html
+│   ├── nikto.txt
+│   ├── Report_Task_1.md
+│   ├── screenshot_headers.png
+│   ├── screenshot_nikto.png
+│   ├── screenshot_sqlmap_dbs.png
+│   ├── screenshot_sqlmap.png
+│   ├── screenshot_xss_page.png
+│   ├── sqlmap_dbs.txt
+│   ├── sqlmap_dump_TABLE_NAME_masked.txt
+│   ├── sqlmap_dump_TABLE_NAME_raw.txt
+│   ├── sqlmap_dump_TABLE_NAME.txt
+│   ├── sqlmap_run_level3.txt
+│   ├── sqlmap_run.txt
+│   └── sqlmap_tables.txt
 ├── Report_Task_1.md
 └── Report_Task_1.pdf
+
 
 
 ---
