@@ -52,7 +52,6 @@ The project simulates a **real-world web application penetration test** followin
 └── Report_Task_1.pdf
 
 
-
 ---
 
 ## 📑 Final Deliverables
