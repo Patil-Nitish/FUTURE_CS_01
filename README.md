@@ -63,6 +63,12 @@ The project simulates a **real-world web application penetration test** followin
 
 ---
 
+## 📊 Repository Analysis
+- [📈 Comprehensive Analysis Report](./REPOSITORY_ANALYSIS.md) - Detailed quantitative and qualitative analysis
+- [📋 Quick Reference Summary](./ANALYSIS_SUMMARY.md) - Executive summary of repository assessment
+
+---
+
 ## 🎯 Skills Demonstrated
 - Web Application Penetration Testing  
 - Vulnerability Scanning & Exploitation  
